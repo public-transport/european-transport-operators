@@ -59,8 +59,8 @@ Operator | Countries | API | Inofficial API | GTFS | JS
 
 Operator | Countries | API | Inofficial API | GTFS | JS
 -------- | --------- | --- | -------------------- | ---- | --
-[Stena Line](https://www.stenaline.de/) | 🇪🇺 North, Baltic | ❌ | ❌ | ❔ | ❌
-[DFDS](https://www.dfdsseaways.com/) | 🇪🇺 North, Baltic | ❌ | ❌ | ❔ | ❌
+[Stena Line](https://www.stenaline.de/) | 🇪🇺, North, Baltic | ❌ | ❌ | ❔ | ❌
+[DFDS](https://www.dfdsseaways.com/) | 🇪🇺, North, Baltic | ❌ | ❌ | ❔ | ❌
 [Scandlines](https://www.scandlines.com/) | 🇸🇪 🇩🇰 🇩🇪 | ❌ | ❌ | ❔ | ❌
 [Finnlines](https://www.finnlines.com/) | 🇫🇮 🇸🇪 🇩🇪 | ❌ | ✅ *todo* | ❔ | ❌
 [tallink / Silja Line](https://www.tallink.com/) | 🇸🇪 🇫🇮 🇪🇪 🇱🇻 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/tallink)
