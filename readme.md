@@ -9,14 +9,18 @@ Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS mod
 [DB](https://www.bahn.de) | 🇩🇪 🇪🇺 | [✅](http://data.deutschebahn.com/dataset?groups=apis) | ✅ *todo* | ❌ | [✅](https://github.com/derhuerst/db-hafas/)
 [SNCF](http://www.sncf.fr) | 🇫🇷 🇪🇺 | [✅](https://www.digital.sncf.com/startup/api) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/sncf)
 
-
-## Ferry
+## Coach
 
 Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS modules
 -------- | --------- | ------------------ | -------------------- | ---- | ----------
-dummy | 🇩🇪 🇫🇷 🇮🇹 | ❌ | ❌ | ❌ | ✅
+[FlixBus](https://www.flixbus.com/) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/meinfernbus)
+[Eurolines (DE)](https://www.eurolines.de) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/eurolines-de)
+[Ouibus](https://www.ouibus.com/) | 🇫🇷 🇪🇺 | [✅](https://api.idbus.com/) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/ouibus)
+[Deinbus](https://www.deinbus.de/) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/deinbus)
+[Ecolines](https://ecolines.net) | 🇪🇺 🇱🇻 🇱🇹 🇪🇪 🇺🇦 🇵🇱 🇷🇺 | ❌ | ❔ | ❔ | ❌
+[LuxExpress](https://luxexpress.eu) | 🇪🇺 🇱🇻 🇱🇹 🇪🇪 🇵🇱 🇷🇺 | ❌ | ❔ | ❔ | ❌
 
-## Coach
+## Ferry
 
 Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS modules
 -------- | --------- | ------------------ | -------------------- | ---- | ----------
