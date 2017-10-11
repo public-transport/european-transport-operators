@@ -38,6 +38,7 @@ Operator | Countries | API | Inofficial API | GTFS | JS
 [Ecolines](https://ecolines.net) | 🇪🇺 🇱🇻 🇱🇹 🇪🇪 🇺🇦 🇵🇱 🇷🇺 | ❌ | ❔ | ❔ | ❌
 [LuxExpress](https://luxexpress.eu) | 🇪🇺 🇱🇻 🇱🇹 🇪🇪 🇵🇱 🇷🇺 | ❌ | ❔ | ❔ | ❌
 [Nettbuss](https://www.nettbuss.se/) | 🇸🇪 🇳🇴 | ❔ | ❔ | ❔ | ❌
+[RegioJet](https://www.regiojet.com/) | 🇨🇿 🇸🇰 🇪🇺 | ❔ | ❔ | ❔ | ❌
 
 ## Ferry
 
