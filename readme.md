@@ -41,8 +41,21 @@ Operator | Countries | API | Inofficial API | [GTFS](https://developers.google.c
 [Irish Rail](http://www.irishrail.ie) | 🇮🇪 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [УЗ](http://www.uz.gov.ua/en/) | 🇺🇦 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [RZD](http://pass.rzd.ru/main-pass/public/en) | 🇷🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[CFM](http://www.railway.md/) | 🇲🇩 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[BDZ](http://www.bdz.bg) | 🇧🇬 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[TrainOSE](http://www.trainose.gr/) | 🇬🇷 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[TCDD](http://www.tcdd.gov.tr/) | 🇹🇷 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[МЖ](http://www.mzi.mk/) | 🇲🇰 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[Trainkos](http://www.trainkos.com/) | 🇽🇰 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[ŽPCG](http://www.zcg-prevoz.me/) | 🇲🇪 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[ŽFBH](http://www.zfbh.ba/) | 🇧🇦 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[ADY](https://ady.az/) | 🇦🇿 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[KTZ](http://www.railways.kz/) | 🇰🇿 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+
 
 \*Not an operator, still interesting though
+
+Missing countries: 🇦🇱 🇦🇲 🇸🇲 🇬🇧 🇻🇦
 
 ## Coach
 
