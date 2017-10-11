@@ -11,39 +11,39 @@ This is a list of european long-distance transport operators, available API endp
 Operator | Countries | API | Inofficial API | [GTFS](https://developers.google.com/transit/gtfs/) | JS | [`station`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#station) | [`line`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#line) | [`route`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#route) | [`schedule`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#schedule) | [`journey`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#journey)
 -------- | --------- | --- | -------------- | ---- | -- | --------- | ------ | ------- | ---------- | ---------
 [*Interrail\**](https://www.interrail.eu/) | 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/interrail/) | ❔ | ❔ | ❔ | ❔ | ❔
-[DB](https://www.bahn.de) | 🇩🇪 🇪🇺 | [✅](http://data.deutschebahn.com/dataset?groups=apis) | ✅ *todo* | ❌ | [✅](https://github.com/derhuerst/db-hafas/) | ❔ | ❔ | ❔ | ❔ | ❔
-[SNCF](http://www.sncf.fr) | 🇫🇷 🇪🇺 | [✅](https://www.digital.sncf.com/startup/api) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/sncf) | ❔ | ❔ | ❔ | ❔ | ❔
-[CD](https://www.cd.cz/) | 🇨🇿 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[ÖBB](http://www.oebb.at) | 🇦🇹 🇪🇺 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[SBB](https://www.sbb.ch) | 🇨🇭 🇪🇺 | [✅](https://data.sbb.ch/api/v1/documentation) | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[SJ](https://www.sj.se/) | 🇸🇪 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[NSB](https://www.nsb.no/) | 🇳🇴 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[VR](https://www.vr.fi) | 🇫🇮 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[DSB](https://www.dsb.dk/) | 🇩🇰 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[NS](https://www.ns.nl/) | 🇳🇱 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[SNCB](http://www.belgianrail.be/) | 🇧🇪 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[CFL](http://www.cfl.lu/) | 🇱🇺 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[CP](https://www.cp.pt) | 🇵🇹 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[renfe](http://www.renfe.com/) | 🇪🇸 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[Trenitalia](http://www.trenitalia.com) | 🇮🇹 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[PKP](http://pkp.pl/) | 🇵🇱 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[HŽPP](http://www.hzpp.hr/) | 🇭🇷 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[CFR](https://www.cfrcalatori.ro/) | 🇷🇴 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[SŽ](http://www.slo-zeleznice.si) | 🇸🇮 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[LDz](https://www.ldz.lv/) | 🇱🇻 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[Бч](http://www.rw.by/) | 🇧🇾 🇷🇺 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[LG](http://www.litrail.lt) | 🇱🇹 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[DB](https://www.bahn.de) | 🇩🇪 | [✅](http://data.deutschebahn.com/dataset?groups=apis) | ✅ *todo* | ❌ | [✅](https://github.com/derhuerst/db-hafas/) | ❔ | ❔ | ❔ | ❔ | ❔
+[SNCF](http://www.sncf.fr) | 🇫🇷 | [✅](https://www.digital.sncf.com/startup/api) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/sncf) | ❔ | ❔ | ❔ | ❔ | ❔
+[CD](https://www.cd.cz/) | 🇨🇿 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[ÖBB](http://www.oebb.at) | 🇦🇹 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[SBB](https://www.sbb.ch) | 🇨🇭 | [✅](https://data.sbb.ch/api/v1/documentation) | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[SJ](https://www.sj.se/) | 🇸🇪 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[NSB](https://www.nsb.no/) | 🇳🇴 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[VR](https://www.vr.fi) | 🇫🇮 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[DSB](https://www.dsb.dk/) | 🇩🇰 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[NS](https://www.ns.nl/) | 🇳🇱 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[SNCB](http://www.belgianrail.be/) | 🇧🇪 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[CFL](http://www.cfl.lu/) | 🇱🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[CP](https://www.cp.pt) | 🇵🇹 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[renfe](http://www.renfe.com/) | 🇪🇸 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[Trenitalia](http://www.trenitalia.com) | 🇮🇹 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[PKP](http://pkp.pl/) | 🇵🇱 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[HŽPP](http://www.hzpp.hr/) | 🇭🇷 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[CFR](https://www.cfrcalatori.ro/) | 🇷🇴 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[SŽ](http://www.slo-zeleznice.si) | 🇸🇮 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[LDz](https://www.ldz.lv/) | 🇱🇻 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[Бч](http://www.rw.by/) | 🇧🇾 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[LG](http://www.litrail.lt) | 🇱🇹 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [GR](http://www.railway.ge) | 🇬🇪 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[JSC](http://serbianrailways.com/) | 🇷🇸 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[ŽSR](http://www.slovakrail.sk/) | 🇸🇰 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[EVR](http://www.evr.ee/) | 🇪🇪 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[MÁV](https://www.mavcsoport.hu/) | 🇭🇺 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[Irish Rail](http://www.irishrail.ie) | 🇮🇪 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[УЗ](http://www.uz.gov.ua/en/) | 🇺🇦 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[JSC](http://serbianrailways.com/) | 🇷🇸 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[ŽSR](http://www.slovakrail.sk/) | 🇸🇰 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[EVR](http://www.evr.ee/) | 🇪🇪 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[MÁV](https://www.mavcsoport.hu/) | 🇭🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[Irish Rail](http://www.irishrail.ie) | 🇮🇪 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[УЗ](http://www.uz.gov.ua/en/) | 🇺🇦 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [RZD](http://pass.rzd.ru/main-pass/public/en) | 🇷🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [CFM](http://www.railway.md/) | 🇲🇩 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[BDZ](http://www.bdz.bg) | 🇧🇬 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[TrainOSE](http://www.trainose.gr/) | 🇬🇷 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[BDZ](http://www.bdz.bg) | 🇧🇬 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[TrainOSE](http://www.trainose.gr/) | 🇬🇷 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [TCDD](http://www.tcdd.gov.tr/) | 🇹🇷 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [МЖ](http://www.mzi.mk/) | 🇲🇰 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [Trainkos](http://www.trainkos.com/) | 🇽🇰 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
