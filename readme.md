@@ -19,7 +19,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [SJ](https://www.sj.se/) | 🇸🇪 | [✅](http://www.trafiklab.se/api) | ➖ | [✅](http://www.trafiklab.se/api) | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [NSB](https://www.nsb.no/) | 🇳🇴 | [✅](https://data.norge.no/data/norsk-reiseinformasjon/nasjonale-rutedata-norge) | ➖ | [✅](https://data.norge.no/data/norsk-reiseinformasjon/nasjonale-rutedata-norge) | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [VR](https://www.vr.fi) | 🇫🇮 | [✅](https://www.digitransit.fi/) | ➖ | [✅](http://dev.hsl.fi/gtfs.matka/) | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[DSB](https://www.dsb.dk/) | 🇩🇰 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[DSB](https://www.dsb.dk/) | 🇩🇰 | [✅](https://help.rejseplanen.dk/hc/da/articles/214174465-Rejseplanens-API) | ➖ | [✅](https://help.rejseplanen.dk) | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [NS](https://www.ns.nl/) | 🇳🇱 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [SNCB](http://www.belgianrail.be/) | 🇧🇪 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [CFL](http://www.cfl.lu/) | 🇱🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
