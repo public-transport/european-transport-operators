@@ -1,6 +1,6 @@
 # European transport JavaScript modules
 
-This is a list of european long-distance transport operators, available API endpoints, GTFS feeds and client modules.
+This is a list of european long-distance transport operators, available API endpoints, GTFS feeds and client modules. The long-term goal would be to have [GTFS](https://developers.google.com/transit/gtfs/) / [FPTF](https://github.com/public-transport/friendly-public-transport-format) for every single operator which would allow us to compose a giant european long-distance transport feed. That would be pretty cool, huh? Let's get to work then… 🔨
 
 ## Train
 
