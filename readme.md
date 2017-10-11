@@ -54,7 +54,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 
 \*Not an operator, still interesting though
 
-🔍: Results only for a specific search query
+🔍 Results only for a specific search query
 
 Missing countries: 🇦🇱 🇦🇲 🇸🇲 🇬🇧 🇻🇦
 
