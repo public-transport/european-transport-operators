@@ -4,7 +4,7 @@ This is a list of european long-distance transport operators, available API endp
 
 ## Train
 
-Operator | Countries | API | Inofficial endpoints | GTFS | JS
+Operator | Countries | API | Inofficial API | GTFS | JS
 -------- | --------- | --- | -------------------- | ---- | --
 [*Interrail\**](https://www.interrail.eu/) | 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/interrail/)
 [DB](https://www.bahn.de) | 🇩🇪 🇪🇺 | [✅](http://data.deutschebahn.com/dataset?groups=apis) | ✅ *todo* | ❌ | [✅](https://github.com/derhuerst/db-hafas/)
@@ -28,7 +28,7 @@ Operator | Countries | API | Inofficial endpoints | GTFS | JS
 
 ## Coach
 
-Operator | Countries | API | Inofficial endpoints | GTFS | JS
+Operator | Countries | API | Inofficial API | GTFS | JS
 -------- | --------- | --- | -------------------- | ---- | --
 [FlixBus](https://www.flixbus.com/) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/meinfernbus)
 [Eurolines (DE)](https://www.eurolines.de) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/eurolines-de)
@@ -39,7 +39,7 @@ Operator | Countries | API | Inofficial endpoints | GTFS | JS
 
 ## Ferry
 
-Operator | Countries | API | Inofficial endpoints | GTFS | JS
+Operator | Countries | API | Inofficial API | GTFS | JS
 -------- | --------- | --- | -------------------- | ---- | --
 [Stena Line](https://www.stenaline.de/) | 🇸🇪 🇩🇰 🇳🇴 🇩🇪 🇵🇱 🇪🇪 🇱🇻 🇫🇷 🇬🇧 🇮🇪 🇳🇱 | ❌ | ❌ | ❔ | ❌
 [Scandlines](https://www.scandlines.com/) | 🇸🇪 🇩🇰 🇩🇪 | ❌ | ❌ | ❔ | ❌
