@@ -11,7 +11,7 @@ Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS mod
 [SNCF](http://www.sncf.fr) | 🇫🇷 🇪🇺 | [✅](https://www.digital.sncf.com/startup/api) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/sncf)
 [CD](https://www.cd.cz/) | 🇨🇿 🇪🇺 | ❔ | ❔ | ❔ | ❌
 [ÖBB](http://www.oebb.at) | 🇦🇹 🇪🇺 | ❌ | ❔ | ❔ | ❌
-[SBB](https://www.sbb.ch) | 🇨🇭 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[SBB](https://www.sbb.ch) | 🇨🇭 🇪🇺 | [✅](https://data.sbb.ch/api/v1/documentation) | ❔ | ❔ | ❌
 [SJ](https://www.sj.se/) | 🇸🇪 🇪🇺 | ❔ | ❔ | ❔ | ❌
 [NSB](https://www.nsb.no/) | 🇳🇴 🇪🇺 | ❔ | ❔ | ❔ | ❌
 [VR](https://www.vr.fi) | 🇫🇮 🇪🇺 | ❔ | ❔ | ❔ | ❌
