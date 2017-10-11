@@ -23,6 +23,20 @@ Operator | Countries | API | Inofficial API | GTFS | JS
 [renfe](http://www.renfe.com/) | 🇪🇸 🇪🇺 | ❔ | ❔ | ❔ | ❌
 [Trenitalia](http://www.trenitalia.com) | 🇮🇹 🇪🇺 | ❔ | ❔ | ❔ | ❌
 [PKP](http://pkp.pl/) | 🇵🇱 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[HŽPP](http://www.hzpp.hr/) | 🇭🇷 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[CFR](https://www.cfrcalatori.ro/) | 🇷🇴 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[SŽ](http://www.slo-zeleznice.si) | 🇸🇮 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[LDz](https://www.ldz.lv/) | 🇱🇻 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[Бч](http://www.rw.by/) | 🇧🇾 🇷🇺 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[LG](http://www.litrail.lt) | 🇱🇹 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[GR](http://www.railway.ge) | 🇬🇪 | ❔ | ❔ | ❔ | ❌
+[JSC](http://serbianrailways.com/) | 🇷🇸 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[ŽSR](http://www.slovakrail.sk/) | 🇸🇰 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[EVR](http://www.evr.ee/) | 🇪🇪 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[MÁV](https://www.mavcsoport.hu/) | 🇭🇺 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[Irish Rail](http://www.irishrail.ie) | 🇮🇪 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[УЗ](http://www.uz.gov.ua/en/) | 🇺🇦 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[RZD](http://pass.rzd.ru/main-pass/public/en) | 🇷🇺 | ❔ | ❔ | ❔ | ❌
 
 \*Not an operator, still interesting though
 
