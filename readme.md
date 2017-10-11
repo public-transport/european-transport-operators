@@ -50,8 +50,8 @@ Operator | Countries | API | Inofficial API | GTFS | JS
 [Ouibus](https://www.ouibus.com/) | 🇫🇷 🇪🇺 | [✅](https://api.idbus.com/) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/ouibus)
 [MegaBus](https://uk.megabus.com/) | 🇬🇧 🇪🇺 | ❔ | ❔ | ❔ | ❌
 [Deinbus](https://www.deinbus.de/) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/deinbus)
-[Ecolines](https://ecolines.net) | 🇪🇺 🇱🇻 🇱🇹 🇪🇪 🇺🇦 🇵🇱 🇷🇺 | ❌ | ❔ | ❔ | ❌
-[LuxExpress](https://luxexpress.eu) | 🇪🇺 🇱🇻 🇱🇹 🇪🇪 🇵🇱 🇷🇺 | ❌ | ❔ | ❔ | ❌
+[Ecolines](https://ecolines.net) | 🇪🇺, Eastern | ❌ | ❔ | ❔ | ❌
+[LuxExpress](https://luxexpress.eu) | 🇪🇺, Eastern | ❌ | ❔ | ❔ | ❌
 [Nettbuss](https://www.nettbuss.se/) | 🇸🇪 🇳🇴 | ❔ | ❔ | ❔ | ❌
 [RegioJet](https://www.regiojet.com/) | 🇨🇿 🇸🇰 🇪🇺 | ❔ | ❔ | ❔ | ❌
 
