@@ -6,8 +6,25 @@ This is a list of european long-distance transport operators, available API endp
 
 Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS modules
 -------- | --------- | ------------------ | -------------------- | ---- | ----------
+[*Interrail\**](https://www.interrail.eu/) | 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/interrail/)
 [DB](https://www.bahn.de) | 🇩🇪 🇪🇺 | [✅](http://data.deutschebahn.com/dataset?groups=apis) | ✅ *todo* | ❌ | [✅](https://github.com/derhuerst/db-hafas/)
 [SNCF](http://www.sncf.fr) | 🇫🇷 🇪🇺 | [✅](https://www.digital.sncf.com/startup/api) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/sncf)
+[CD](https://www.cd.cz/) | 🇨🇿 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[ÖBB](http://www.oebb.at) | 🇦🇹 🇪🇺 | ❌ | ❔ | ❔ | ❌
+[SBB](https://www.sbb.ch) | 🇨🇭 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[SJ](https://www.sj.se/) | 🇸🇪 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[NSB](https://www.nsb.no/) | 🇳🇴 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[VR](https://www.vr.fi) | 🇫🇮 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[DSB](https://www.dsb.dk/) | 🇩🇰 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[NS](https://www.ns.nl/) | 🇳🇱 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[SNCB](http://www.belgianrail.be/) | 🇧🇪 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[CFL](http://www.cfl.lu/) | 🇱🇺 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[CP](https://www.cp.pt) | 🇵🇹 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[renfe](http://www.renfe.com/) | 🇪🇸 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[Trenitalia](http://www.trenitalia.com) | 🇮🇹 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[PKP](http://pkp.pl/) | 🇵🇱 🇪🇺 | ❔ | ❔ | ❔ | ❌
+
+\*Not an operator, still interesting though
 
 ## Coach
 
@@ -27,7 +44,7 @@ Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS mod
 [Stena Line](https://www.stenaline.de/) | 🇸🇪 🇩🇰 🇳🇴 🇩🇪 🇵🇱 🇪🇪 🇱🇻 🇫🇷 🇬🇧 🇮🇪 🇳🇱 | ❌ | ❌ | ❔ | ❌
 [Scandlines](https://www.scandlines.com/) | 🇸🇪 🇩🇰 🇩🇪 | ❌ | ❌ | ❔ | ❌
 [Finnlines](https://www.finnlines.com/) | 🇫🇮 🇸🇪 🇩🇪 | ❌ | ✅ *todo* | ❔ | ❌
-[tallink / Silja](https://www.tallink.com/) | 🇸🇪 🇫🇮 🇪🇪 🇱🇻 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/tallink)
+[tallink / Silja Line](https://www.tallink.com/) | 🇸🇪 🇫🇮 🇪🇪 🇱🇻 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/tallink)
 
 
 ## Contributing
