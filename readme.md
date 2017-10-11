@@ -6,7 +6,9 @@ This is a list of european long-distance transport operators, available API endp
 
 Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS modules
 -------- | --------- | ------------------ | -------------------- | ---- | ----------
-dummy | 🇩🇪 🇫🇷 🇮🇹 | ❌ | ❌ | ❌ | ✅
+DB | 🇩🇪 🇪🇺 | [❌](http://data.deutschebahn.com/dataset?groups=apis) | ✅ | ❌ | [✅](https://github.com/derhuerst/db-hafas/)
+SNCF | 🇫🇷 🇪🇺 | [✅](https://www.digital.sncf.com/startup/api) | ✅ | ❔ | [✅](https://github.com/juliuste/sncf)
+
 
 ## Ferry
 
