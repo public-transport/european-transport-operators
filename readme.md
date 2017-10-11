@@ -24,7 +24,10 @@ Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS mod
 
 Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS modules
 -------- | --------- | ------------------ | -------------------- | ---- | ----------
-dummy | 🇩🇪 🇫🇷 🇮🇹 | ❌ | ❌ | ❌ | ✅
+[Stena Line](https://www.stenaline.de/) | 🇸🇪 🇩🇰 🇳🇴 🇩🇪 🇵🇱 🇪🇪 🇱🇻 🇫🇷 🇬🇧 🇮🇪 🇳🇱 | ❌ | ❌ | ❔ | ❌
+[Scandlines](https://www.scandlines.com/) | 🇸🇪 🇩🇰 🇩🇪 | ❌ | ❌ | ❔ | ❌
+[Finnlines](https://www.finnlines.com/) | 🇫🇮 🇸🇪 🇩🇪 | ❌ | ✅ *todo* | ❔ | ❌
+[tallink / Silja](https://www.tallink.com/) | 🇸🇪 🇫🇮 🇪🇪 🇱🇻 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/tallink)
 
 
 ## Contributing
