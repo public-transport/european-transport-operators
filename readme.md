@@ -59,19 +59,19 @@ Operator | Countries | API | Inofficial API | GTFS | JS
 
 Operator | Countries | API | Inofficial API | GTFS | JS
 -------- | --------- | --- | -------------------- | ---- | --
-[Stena Line](https://www.stenaline.de/) | 🇪🇺, North, Baltic | ❌ | ❌ | ❔ | ❌
-[DFDS](https://www.dfdsseaways.com/) | 🇪🇺, North, Baltic | ❌ | ❌ | ❔ | ❌
-[Scandlines](https://www.scandlines.com/) | 🇸🇪 🇩🇰 🇩🇪 | ❌ | ❌ | ❔ | ❌
+[Stena Line](https://www.stenaline.de/) | 🇪🇺, North, Baltic | ❔ | ❔ | ❔ | ❌
+[DFDS](https://www.dfdsseaways.com/) | 🇪🇺, North, Baltic | ❔ | ❔ | ❔ | ❌
+[Scandlines](https://www.scandlines.com/) | 🇸🇪 🇩🇰 🇩🇪 | ❌ | ❔ | ❔ | ❌
 [Finnlines](https://www.finnlines.com/) | 🇫🇮 🇸🇪 🇩🇪 | ❌ | ✅ *todo* | ❔ | ❌
 [tallink / Silja Line](https://www.tallink.com/) | 🇸🇪 🇫🇮 🇪🇪 🇱🇻 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/tallink)
-[Viking Line](http://www.vikingline.fi/) | 🇫🇮 🇪🇺 | ❌ | ❌ | ❔ | ❌
-[Wasa Line](https://www.wasaline.com/) | 🇸🇪 🇫🇮 | ❌ | ❌ | ❔ | ❌
-[St. Peter Line](https://stpeterline.com/) | 🇸🇪 🇫🇮 🇪🇪 🇷🇺 | ❌ | ❌ | ❔ | ❌
-[Polferries](http://polferries.pl/) | 🇵🇱 🇸🇪 🇩🇰 | ❌ | ❌ | ❔ | ❌
-[Unity Line](https://www.unityline.pl/) | 🇵🇱 🇸🇪 | ❌ | ❌ | ❔ | ❌
-[TT Line](https://ttline.com/) | 🇵🇱 🇸🇪 🇩🇪 | ❌ | ❌ | ❔ | ❌
-[Faergen](https://www.faergen.dk) | 🇸🇪 🇩🇰 🇩🇪 | ❌ | ❌ | ❔ | ❌
-[Color Line](https://www.colorline.com/) | 🇳🇴 🇩🇰 🇩🇪 | ❌ | ❌ | ❔ | ❌
+[Viking Line](http://www.vikingline.fi/) | 🇫🇮 🇪🇺 | ❔ | ❔ | ❔ | ❌
+[Wasa Line](https://www.wasaline.com/) | 🇸🇪 🇫🇮 | ❔ | ❔ | ❔ | ❌
+[St. Peter Line](https://stpeterline.com/) | 🇸🇪 🇫🇮 🇪🇪 🇷🇺 | ❔ | ❔ | ❔ | ❌
+[Polferries](http://polferries.pl/) | 🇵🇱 🇸🇪 🇩🇰 | ❔ | ❔ | ❔ | ❌
+[Unity Line](https://www.unityline.pl/) | 🇵🇱 🇸🇪 | ❔ | ❔ | ❔ | ❌
+[TT Line](https://ttline.com/) | 🇵🇱 🇸🇪 🇩🇪 | ❔ | ❔ | ❔ | ❌
+[Faergen](https://www.faergen.dk) | 🇸🇪 🇩🇰 🇩🇪 | ❔ | ❔ | ❔ | ❌
+[Color Line](https://www.colorline.com/) | 🇳🇴 🇩🇰 🇩🇪 | ❔ | ❔ | ❔ | ❌
 
 Todo: [Mediterranean](https://wikitravel.org/en/Ferries_in_the_Mediterranean), [Britain](https://wikitravel.org/en/Ferry_routes_to_British_Mainland)
 
