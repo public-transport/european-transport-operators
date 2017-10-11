@@ -12,7 +12,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 -------- | --------- | --- | -------------- | ---- | -- | --------- | ------ | ------- | ---------- | ---------
 [*Interrail\**](https://www.interrail.eu/) | 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/interrail/) | ❔ | ❔ | ❔ | ❔ | ❔
 [DB](https://www.bahn.de) | 🇩🇪 | [✅](http://data.deutschebahn.com/dataset?groups=apis) | ✅ *todo* | ❌ | [✅](https://github.com/derhuerst/db-hafas/) | ❔ | ❔ | ❔ | ❔ | ❔
-[SNCF](http://www.sncf.fr) | 🇫🇷 | [✅](https://www.digital.sncf.com/startup/api) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/sncf) | ❔ | ❔ | ❔ | ❔ | ❔
+[SNCF](http://www.sncf.fr) | 🇫🇷 | [✅](https://www.digital.sncf.com/startup/api) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/sncf) | 🔍 | ❌ | ❌ | ❌ | ✅
 [CD](https://www.cd.cz/) | 🇨🇿 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [ÖBB](http://www.oebb.at) | 🇦🇹 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [SBB](https://www.sbb.ch) | 🇨🇭 | [✅](https://data.sbb.ch/api/v1/documentation) | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
@@ -52,8 +52,9 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [ADY](https://ady.az/) | 🇦🇿 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [KTZ](http://www.railways.kz/) | 🇰🇿 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 
-
 \*Not an operator, still interesting though
+
+🔍: Results only for a specific search query
 
 Missing countries: 🇦🇱 🇦🇲 🇸🇲 🇬🇧 🇻🇦
 
