@@ -67,8 +67,8 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [Ouibus](https://www.ouibus.com/) | 🇫🇷 🇪🇺 | [✅](https://api.idbus.com/) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/ouibus) | ❔ | ❔ | ❔ | ❔ | ❔
 [MegaBus](https://uk.megabus.com/) | 🇬🇧 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [Deinbus](https://www.deinbus.de/) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/deinbus) | ❔ | ❔ | ❔ | ❔ | ❔
-[Ecolines](https://ecolines.net) | 🇪🇺, East | ❌ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[LuxExpress](https://luxexpress.eu) | 🇪🇺, East | ❌ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[Ecolines](https://ecolines.net) | East 🇪🇺 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[LuxExpress](https://luxexpress.eu) | East 🇪🇺 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [Nettbuss](https://www.nettbuss.se/) | 🇸🇪 🇳🇴 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [RegioJet](https://www.regiojet.com/) | 🇨🇿 🇸🇰 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 
@@ -76,8 +76,8 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 
 Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com/transit/gtfs/) | JS | [`station`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#station) | [`line`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#line) | [`route`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#route) | [`schedule`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#schedule) | [`journey`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#journey)
 -------- | --------- | --- | -------------- | ---- | -- | --------- | ------ | ------- | ---------- | ---------
-[Stena Line](https://www.stenaline.de/) | 🇪🇺, North, Baltic | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[DFDS](https://www.dfdsseaways.com/) | 🇪🇺, North, Baltic | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[Stena Line](https://www.stenaline.de/) | North, Baltic | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[DFDS](https://www.dfdsseaways.com/) | North, Baltic | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [Scandlines](https://www.scandlines.com/) | 🇸🇪 🇩🇰 🇩🇪 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [Finnlines](https://www.finnlines.com/) | 🇫🇮 🇸🇪 🇩🇪 | ❌ | ✅ *todo* | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [tallink / Silja Line](https://www.tallink.com/) | 🇸🇪 🇫🇮 🇪🇪 🇱🇻 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/tallink) | ❔ | ❔ | ❔ | ❔ | ❔
