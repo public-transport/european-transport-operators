@@ -4,8 +4,8 @@ This is a list of european long-distance transport operators, available API endp
 
 ## Train
 
-Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS
--------- | --------- | ------------------ | -------------------- | ---- | ----------
+Operator | Countries | API | Inofficial endpoints | GTFS | JS
+-------- | --------- | --- | -------------------- | ---- | --
 [*Interrail\**](https://www.interrail.eu/) | 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/interrail/)
 [DB](https://www.bahn.de) | 🇩🇪 🇪🇺 | [✅](http://data.deutschebahn.com/dataset?groups=apis) | ✅ *todo* | ❌ | [✅](https://github.com/derhuerst/db-hafas/)
 [SNCF](http://www.sncf.fr) | 🇫🇷 🇪🇺 | [✅](https://www.digital.sncf.com/startup/api) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/sncf)
@@ -28,8 +28,8 @@ Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS
 
 ## Coach
 
-Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS
--------- | --------- | ------------------ | -------------------- | ---- | ----------
+Operator | Countries | API | Inofficial endpoints | GTFS | JS
+-------- | --------- | --- | -------------------- | ---- | --
 [FlixBus](https://www.flixbus.com/) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/meinfernbus)
 [Eurolines (DE)](https://www.eurolines.de) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/eurolines-de)
 [Ouibus](https://www.ouibus.com/) | 🇫🇷 🇪🇺 | [✅](https://api.idbus.com/) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/ouibus)
@@ -39,8 +39,8 @@ Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS
 
 ## Ferry
 
-Operator | Countries | Official endpoints | Inofficial endpoints | GTFS | JS
--------- | --------- | ------------------ | -------------------- | ---- | ----------
+Operator | Countries | API | Inofficial endpoints | GTFS | JS
+-------- | --------- | --- | -------------------- | ---- | --
 [Stena Line](https://www.stenaline.de/) | 🇸🇪 🇩🇰 🇳🇴 🇩🇪 🇵🇱 🇪🇪 🇱🇻 🇫🇷 🇬🇧 🇮🇪 🇳🇱 | ❌ | ❌ | ❔ | ❌
 [Scandlines](https://www.scandlines.com/) | 🇸🇪 🇩🇰 🇩🇪 | ❌ | ❌ | ❔ | ❌
 [Finnlines](https://www.finnlines.com/) | 🇫🇮 🇸🇪 🇩🇪 | ❌ | ✅ *todo* | ❔ | ❌
