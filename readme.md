@@ -17,7 +17,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [ÖBB](http://www.oebb.at) | 🇦🇹 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [SBB](https://www.sbb.ch) | 🇨🇭 | [✅](https://data.sbb.ch/api/v1/documentation) | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [SJ](https://www.sj.se/) | 🇸🇪 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[NSB](https://www.nsb.no/) | 🇳🇴 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
+[NSB](https://www.nsb.no/) | 🇳🇴 | [✅](https://data.norge.no/data/norsk-reiseinformasjon/nasjonale-rutedata-norge) | ❔ | [✅](https://data.norge.no/data/norsk-reiseinformasjon/nasjonale-rutedata-norge) | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [VR](https://www.vr.fi) | 🇫🇮 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [DSB](https://www.dsb.dk/) | 🇩🇰 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [NS](https://www.ns.nl/) | 🇳🇱 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
