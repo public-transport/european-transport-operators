@@ -62,7 +62,7 @@ Missing countries: 🇦🇱 🇦🇲 🇸🇲 🇬🇧 🇻🇦
 
 Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com/transit/gtfs/) | JS | [`station`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#station) | [`line`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#line) | [`route`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#route) | [`schedule`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#schedule) | [`journey`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#journey)
 -------- | --------- | --- | -------------- | ---- | -- | --------- | ------ | ------- | ---------- | ---------
-[FlixBus](https://www.flixbus.com/) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/meinfernbus) | ❔ | ❔ | ❔ | ❔ | ❔
+[FlixBus](https://www.flixbus.com/) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | [✅](http://data.ndovloket.nl/flixbus/) | [✅](https://github.com/juliuste/meinfernbus) | ❔ | ❔ | ❔ | ❔ | ❔
 [Eurolines (DE)](https://www.eurolines.de) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/eurolines-de) | ❔ | ❔ | ❔ | ❔ | ❔
 [PolskiBus](http://www.polskibus.com) | 🇵🇱 🇪🇺 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [Ouibus](https://www.ouibus.com/) | 🇫🇷 🇪🇺 | [✅](https://api.idbus.com/) | ✅ *todo* | [✅](https://api.idbus.com/#gtfs-file) | [✅](https://github.com/juliuste/ouibus) | ❔ | ❔ | ❔ | ❔ | ❔
