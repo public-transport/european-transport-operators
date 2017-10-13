@@ -22,7 +22,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [DSB](https://www.dsb.dk/) | 🇩🇰 | [✅](https://help.rejseplanen.dk/hc/da/articles/214174465-Rejseplanens-API) | ➖ | [✅](https://help.rejseplanen.dk) | ❔ | ✅ | ✅ | ✅ | ✅ | ✅
 [NS](https://www.ns.nl/) | 🇳🇱 | [✅](https://openov.nl/) | ➖ | [✅](https://openov.nl/) | ❔ | ✅ | ✅ | ✅ | ✅ | ✅
 [SNCB](http://www.belgianrail.be/) | 🇧🇪 | [✅](https://api.irail.be/) | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
-[CFL](http://www.cfl.lu/) | 🇱🇺 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
+[CFL](http://www.cfl.lu/) | 🇱🇺 | [✅](http://openov.lu/) | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [CP](https://www.cp.pt) | 🇵🇹 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [renfe](http://www.renfe.com/) | 🇪🇸 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [Trenitalia](http://www.trenitalia.com) | 🇮🇹 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
