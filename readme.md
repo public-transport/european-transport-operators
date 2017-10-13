@@ -65,7 +65,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [FlixBus](https://www.flixbus.com/) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/meinfernbus) | ❔ | ❔ | ❔ | ❔ | ❔
 [Eurolines (DE)](https://www.eurolines.de) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/eurolines-de) | ❔ | ❔ | ❔ | ❔ | ❔
 [PolskiBus](http://www.polskibus.com) | 🇵🇱 🇪🇺 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
-[Ouibus](https://www.ouibus.com/) | 🇫🇷 🇪🇺 | [✅](https://api.idbus.com/) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/ouibus) | ❔ | ❔ | ❔ | ❔ | ❔
+[Ouibus](https://www.ouibus.com/) | 🇫🇷 🇪🇺 | [✅](https://api.idbus.com/) | ✅ *todo* | [✅](https://api.idbus.com/#gtfs-file) | [✅](https://github.com/juliuste/ouibus) | ❔ | ❔ | ❔ | ❔ | ❔
 [MegaBus](https://uk.megabus.com/) | 🇬🇧 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [Deinbus](https://www.deinbus.de/) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/deinbus) | ❔ | ❔ | ❔ | ❔ | ❔
 [Ecolines](https://ecolines.net) | East 🇪🇺 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
