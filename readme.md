@@ -2,9 +2,18 @@
 
 This is a list of european long-distance transport operators, available API endpoints, GTFS feeds and client modules. The long-term goal would be to have [GTFS](https://developers.google.com/transit/gtfs/) / [FPTF](https://github.com/public-transport/friendly-public-transport-format) for every single operator which would allow us to compose a giant european long-distance transport feed. That would be pretty cool, huh? Let's get to work then… 🔨
 
+- [Country feeds](#country-feeds)
 - [Train](#train)
 - [Coach](#coach)
 - [Ferry](#ferry)
+
+## Country feeds
+
+In some countries, [GTFS](https://developers.google.com/transit/gtfs/) feeds covering multiple operators (ideally *all* relevant operators in the country) are available:
+
+| 🏳️ | 🇪🇺 | 🇦🇹 | 🇦🇿 | 🇧🇾 | 🇧🇪 | 🇧🇦 | 🇧🇬 | 🇭🇷 | 🇨🇿 | 🇩🇰 | 🇪🇪 | 🇲🇰 | 🇫🇮 | 🇫🇷 | 🇬🇪 | 🇩🇪 | 🇬🇷 | 🇭🇺 | 🇮🇪 | 🇮🇹 | 🇰🇿 | 🇽🇰 | 🇱🇻 | 🇱🇹 | 🇱🇺 | 🇲🇩 | 🇲🇪 | 🇳🇱 | 🇳🇴 | 🇵🇱 | 🇵🇹 | 🇷🇴 | 🇷🇺 | 🇷🇸 | 🇸🇰 | 🇸🇮 | 🇪🇸 | 🇸🇪 | 🇨🇭 | 🇹🇷 | 🇺🇦 |
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [GTFS](https://developers.google.com/transit/gtfs/) | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ |
 
 ## Train
 
@@ -12,7 +21,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 -------- | --------- | --- | -------------- | ---- | -- | --------- | ------ | ------- | ---------- | ---------
 [*Interrail\**](https://www.interrail.eu/) | 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/interrail/) | ❔ | ❔ | ❔ | ❔ | ❔
 [DB](https://www.bahn.de) | 🇩🇪 | [✅](http://data.deutschebahn.com/dataset?groups=apis) | ✅ *todo* | ❌ | [✅](https://github.com/derhuerst/db-hafas/) | ❔ | ❔ | ❔ | ❔ | ❔
-[SNCF](http://www.sncf.fr) | 🇫🇷 | [✅](https://www.digital.sncf.com/startup/api) | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/sncf) | 🔍 | ❌ | ❌ | ❌ | ✅
+[SNCF](http://www.sncf.fr) | 🇫🇷 | [✅](https://www.digital.sncf.com/startup/api) | ✅ *todo* | [✅](https://navitia.opendatasoft.com/explore/?sort=modified&q=&refine.geographicarea=France) | [✅](https://github.com/juliuste/sncf) | 🔍 | ❌ | ❌ | ❌ | ✅
 [CD](https://www.cd.cz/) | 🇨🇿 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [ÖBB](http://www.oebb.at) | 🇦🇹 | ❌ | ✅ | ❌ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔
 [SBB](https://www.sbb.ch) | 🇨🇭 | [✅](https://data.sbb.ch/api/v1/documentation) | ➖ | [✅](http://gtfs.geops.ch/) | ❔ | ✅ | ✅ | ✅ | ✅ | ✅
