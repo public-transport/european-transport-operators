@@ -17,6 +17,8 @@ In some countries, [GTFS](https://developers.google.com/transit/gtfs/) feeds cov
 
 ## Train
 
+See [this map](train-gtfs/readme.md) for an overview of GTFS feed coverage for different national railway operators.
+
 Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com/transit/gtfs/) | JS | [`station`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#station) | [`line`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#line) | [`route`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#route) | [`schedule`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#schedule) | [`journey`](https://github.com/public-transport/friendly-public-transport-format/blob/master/docs/readme.md#journey)
 -------- | --------- | --- | -------------- | ---- | -- | --------- | ------ | ------- | ---------- | ---------
 [*Interrail\**](https://www.interrail.eu/) | 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/interrail/) | ❔ | ❔ | ❔ | ❔ | ❔
