@@ -48,7 +48,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [JSC](http://serbianrailways.com/) | 🇷🇸 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [ŽSR](http://www.slovakrail.sk/) | 🇸🇰 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [EVR](http://www.evr.ee/) | 🇪🇪 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
-[MÁV](https://www.mavcsoport.hu/) | 🇭🇺 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
+[MÁV](https://www.mavcsoport.hu/) | 🇭🇺 | ❔ | ✅ *todo* | [✅](https://gtfs.directory/magyar-allamvasutak/) | [✅](https://github.com/juliuste/mav) | ✅ | ✅
 [Irish Rail](http://www.irishrail.ie) | 🇮🇪 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [УЗ](http://www.uz.gov.ua/en/) | 🇺🇦 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [RZD](http://pass.rzd.ru/main-pass/public/en) | 🇷🇺 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
