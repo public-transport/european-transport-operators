@@ -34,13 +34,13 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [NS](https://www.ns.nl/) | 🇳🇱 | [✅](https://openov.nl/) | ➖ | [✅](https://openov.nl/) | ❔ | ❔ | ❔
 [SNCB](http://www.belgianrail.be/) | 🇧🇪 | [✅](https://api.irail.be/) | ❔ | ❔ | ❔ | ❔ | ❔
 [CFL](http://www.cfl.lu/) | 🇱🇺 | ❔ | ❔ | [✅](http://openov.lu/) | ❔ | ❔ | ❔
-[CP](https://www.cp.pt) | 🇵🇹 | ❔ | ✅ *todo* | [✅](https://gtfs.directory/comboios-de-portugal/) | [✅](https://github.com/juliuste/comboios) | ❔ | ❔
+[CP](https://www.cp.pt) | 🇵🇹 | ❔ | ✅ *todo* | [✅](https://gtfs.directory/comboios-de-portugal/) | [✅](https://github.com/juliuste/comboios) | ✅ | ✅
 [renfe](http://www.renfe.com/) | 🇪🇸 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [Trenitalia](http://www.trenitalia.com) | 🇮🇹 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [PKP](http://pkp.pl/) | 🇵🇱 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [HŽPP](http://www.hzpp.hr/) | 🇭🇷 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [CFR](https://www.cfrcalatori.ro/) | 🇷🇴 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
-[SŽ](http://www.slo-zeleznice.si) | 🇸🇮 | ❔ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/slovenske-zeleznice) | ❔ | ❔
+[SŽ](http://www.slo-zeleznice.si) | 🇸🇮 | ❔ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/slovenske-zeleznice) | ✅ | ❌
 [LDz](https://www.ldz.lv/) | 🇱🇻 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [Бч](http://www.rw.by/) | 🇧🇾 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [LG](http://www.litrail.lt) | 🇱🇹 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
@@ -77,7 +77,7 @@ Missing countries: 🇦🇱 🇦🇲 🇸🇲 🇬🇧 🇻🇦
 
 Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com/transit/gtfs/) | JS | Stations\* | GTFS-compatible\*\*
 -------- | --------- | --- | -------------- | ---- | -- | --------- | ------
-[FlixBus](https://www.flixbus.com/) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | [✅](http://data.ndovloket.nl/flixbus/) | [✅](https://github.com/juliuste/meinfernbus) | ❔ | ❔
+[FlixBus](https://www.flixbus.com/) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | [✅](http://data.ndovloket.nl/flixbus/) | [✅](https://github.com/juliuste/meinfernbus) | ✅ | ❔
 [Eurolines (DE)](https://www.eurolines.de) | 🇩🇪 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/eurolines-de) | ❔ | ❔
 [PolskiBus](http://www.polskibus.com) | 🇵🇱 🇪🇺 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔
 [Ouibus](https://www.ouibus.com/) | 🇫🇷 🇪🇺 | [✅](https://api.idbus.com/) | ✅ *todo* | [✅](https://api.idbus.com/#gtfs-file) | [✅](https://github.com/juliuste/ouibus) | ❔ | ❔
