@@ -21,7 +21,7 @@ See [this map](train-gtfs/readme.md) for an overview of GTFS feed coverage for d
 
 Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com/transit/gtfs/) | JS | Stations\* | GTFS-compatible\*\*
 -------- | --------- | --- | -------------- | ---- | -- | --------- | ------
-[*Interrail\*\*\**](https://www.interrail.eu/) | 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/interrail/) | ❔ | ❔
+[*Interrail\*\*\**](https://www.interrail.eu/) | 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/interrail/) | ❌ | ❌
 [DB](https://www.bahn.de) | 🇩🇪 | [✅](http://data.deutschebahn.com/dataset?groups=apis) | ✅ *todo* | ❌ | [✅](https://github.com/derhuerst/db-hafas/) | ❔ | ❔
 [SNCF](http://www.sncf.fr) | 🇫🇷 | [✅](https://www.digital.sncf.com/startup/api) | ✅ *todo* | [✅](https://navitia.opendatasoft.com/explore/?sort=modified&q=&refine.geographicarea=France) | [✅](https://github.com/juliuste/sncf) | ❔ | ❔
 [CD](https://www.cd.cz/) | 🇨🇿 | ❔ | ✅ *todo* | ❔ | ❔ | ❔ | ❔
