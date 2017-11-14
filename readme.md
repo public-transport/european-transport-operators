@@ -63,8 +63,10 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [ADY](https://ady.az/) | 🇦🇿 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [KTZ](http://www.railways.kz/) | 🇰🇿 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 
-\* Complete list of all stations available (not just search-based)
-\*\* API provides all data required to generate a GTFS feed
+\*Complete list of all stations available (not just search-based)
+
+\*\*API provides all data required to generate a GTFS feed
+
 \*\*\*Not an operator, still interesting though
 
 🔍 Results only for a specific search query
@@ -86,8 +88,9 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [Nettbuss](https://www.nettbuss.se/) | 🇸🇪 🇳🇴 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔
 [RegioJet](https://www.regiojet.com/) | 🇨🇿 🇸🇰 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔
 
-\* Complete list of all stations available (not just search-based)
-\*\* API provides all data required to generate a GTFS feed
+\*Complete list of all stations available (not just search-based)
+
+\*\*API provides all data required to generate a GTFS feed
 
 ## Ferry
 
@@ -107,10 +110,11 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [Faergen](https://www.faergen.dk) | 🇸🇪 🇩🇰 🇩🇪 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔
 [Color Line](https://www.colorline.com/) | 🇳🇴 🇩🇰 🇩🇪 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔
 
-Todo: [Mediterranean](https://wikitravel.org/en/Ferries_in_the_Mediterranean), [Britain](https://wikitravel.org/en/Ferry_routes_to_British_Mainland)
+\*Complete list of all stations available (not just search-based)
 
-\* Complete list of all stations available (not just search-based)
-\*\* API provides all data required to generate a GTFS feed
+\*\*API provides all data required to generate a GTFS feed
+
+Todo: [Mediterranean](https://wikitravel.org/en/Ferries_in_the_Mediterranean), [Britain](https://wikitravel.org/en/Ferry_routes_to_British_Mainland)
 
 ## Contributing
 
