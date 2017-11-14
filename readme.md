@@ -24,7 +24,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [*Interrail\**](https://www.interrail.eu/) | 🇪🇺 | ❌ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/interrail/) | ❔ | ❔ | ❔ | ❔ | ❔
 [DB](https://www.bahn.de) | 🇩🇪 | [✅](http://data.deutschebahn.com/dataset?groups=apis) | ✅ *todo* | ❌ | [✅](https://github.com/derhuerst/db-hafas/) | ❔ | ❔ | ❔ | ❔ | ❔
 [SNCF](http://www.sncf.fr) | 🇫🇷 | [✅](https://www.digital.sncf.com/startup/api) | ✅ *todo* | [✅](https://navitia.opendatasoft.com/explore/?sort=modified&q=&refine.geographicarea=France) | [✅](https://github.com/juliuste/sncf) | 🔍 | ❌ | ❌ | ❌ | ✅
-[CD](https://www.cd.cz/) | 🇨🇿 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
+[CD](https://www.cd.cz/) | 🇨🇿 | ❔ | ✅ *todo* | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [ÖBB](http://www.oebb.at) | 🇦🇹 | ❌ | ✅ | ❌ | [✅](https://github.com/juliuste/oebb) | ❔ | ❔ | ❔ | ❔ | ❔
 [SBB](https://www.sbb.ch) | 🇨🇭 | [✅](https://data.sbb.ch/api/v1/documentation) | ➖ | [✅](http://gtfs.geops.ch/) | ❔ | ✅ | ✅ | ✅ | ✅ | ✅
 [SJ](https://www.sj.se/) | 🇸🇪 | [✅](http://www.trafiklab.se/api) | ➖ | [✅](http://www.trafiklab.se/api) | ❔ | ✅ | ✅ | ✅ | ✅ | ✅
@@ -34,13 +34,13 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [NS](https://www.ns.nl/) | 🇳🇱 | [✅](https://openov.nl/) | ➖ | [✅](https://openov.nl/) | ❔ | ✅ | ✅ | ✅ | ✅ | ✅
 [SNCB](http://www.belgianrail.be/) | 🇧🇪 | [✅](https://api.irail.be/) | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [CFL](http://www.cfl.lu/) | 🇱🇺 | ❔ | ❔ | [✅](http://openov.lu/) | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
-[CP](https://www.cp.pt) | 🇵🇹 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
+[CP](https://www.cp.pt) | 🇵🇹 | ❔ | ✅ *todo* | [✅](https://gtfs.directory/comboios-de-portugal/) | [✅](https://github.com/juliuste/comboios) | ❔ | ❔ | ❔ | ❔ | ❔
 [renfe](http://www.renfe.com/) | 🇪🇸 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [Trenitalia](http://www.trenitalia.com) | 🇮🇹 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [PKP](http://pkp.pl/) | 🇵🇱 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [HŽPP](http://www.hzpp.hr/) | 🇭🇷 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [CFR](https://www.cfrcalatori.ro/) | 🇷🇴 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
-[SŽ](http://www.slo-zeleznice.si) | 🇸🇮 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
+[SŽ](http://www.slo-zeleznice.si) | 🇸🇮 | ❔ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/slovenske-zeleznice) | ❔ | ❔ | ❔ | ❔ | ❔
 [LDz](https://www.ldz.lv/) | 🇱🇻 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [Бч](http://www.rw.by/) | 🇧🇾 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [LG](http://www.litrail.lt) | 🇱🇹 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
