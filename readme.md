@@ -39,7 +39,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [Trenitalia](http://www.trenitalia.com) | 🇮🇹 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [PKP](http://pkp.pl/) | 🇵🇱 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [HŽPP](http://www.hzpp.hr/) | 🇭🇷 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
-[CFR](https://www.cfrcalatori.ro/) | 🇷🇴 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
+[CFR](https://www.cfrcalatori.ro/) | 🇷🇴 | [✅](http://data.gov.ro/organization/sc-informatica-feroviara-sa/) | ❔ | [✅](https://github.com/vasile/data.gov.ro-gtfs-exporter) *inofficial* | ❔ | ❔ | ❔
 [SŽ](http://www.slo-zeleznice.si) | 🇸🇮 | ❔ | ✅ *todo* | ❔ | [✅](https://github.com/juliuste/slovenske-zeleznice) | ✅ | ❌
 [LDz](https://www.ldz.lv/) | 🇱🇻 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [Бч](http://www.rw.by/) | 🇧🇾 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
