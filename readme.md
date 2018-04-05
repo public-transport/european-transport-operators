@@ -31,7 +31,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [NSB](https://www.nsb.no/) | 🇳🇴 | [✅](https://data.norge.no/data/norsk-reiseinformasjon/nasjonale-rutedata-norge) | ➖ | [✅](https://data.norge.no/data/norsk-reiseinformasjon/nasjonale-rutedata-norge) | ❔ | ❔ | ➖
 [VR](https://www.vr.fi) | 🇫🇮 | [✅](https://www.digitransit.fi/) | ➖ | [✅](http://dev.hsl.fi/gtfs.matka/) | ❔ | ❔ | ➖
 [DSB](https://www.dsb.dk/) | 🇩🇰 | [✅](https://help.rejseplanen.dk/hc/da/articles/214174465-Rejseplanens-API) | ➖ | [✅](https://help.rejseplanen.dk) | ❔ | ❔ | ➖
-[NS](https://www.ns.nl/) | 🇳🇱 | [✅](https://openov.nl/) | ➖ | [✅](https://openov.nl/) | ❔ | ❔ | ➖
+[NS](https://www.ns.nl/) | 🇳🇱 | [✅](https://www.ns.nl/en/travel-information/ns-api) | ➖ | [✅](https://openov.nl/) | ❔ | [✅](https://www.rijdendetreinen.nl/over/open-data) | ➖
 [SNCB](http://www.belgianrail.be/) | 🇧🇪 | [✅](https://api.irail.be/) | ❔ | ❔ | ❔ | ❔ | ❔
 [CFL](http://www.cfl.lu/) | 🇱🇺 | ❔ | ❔ | [✅](http://openov.lu/) | ❔ | ❔ | ➖
 [CP](https://www.cp.pt) | 🇵🇹 | ❔ | ✅ | [✅](https://gtfs.directory/comboios-de-portugal/) | [✅](https://github.com/juliuste/comboios) | ✅ | ✅
