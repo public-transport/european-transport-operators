@@ -77,7 +77,7 @@ Missing countries: 🇦🇱 🇦🇲 🇸🇲 🇬🇧 🇻🇦
 
 Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com/transit/gtfs/) | JS | Stations\* | GTFS-compatible\*\*
 -------- | --------- | --- | -------------- | ---- | -- | --------- | ------
-[FlixBus](https://www.flixbus.com/) | 🇩🇪 🇪🇺 | ❌ | ✅ | [✅](http://data.ndovloket.nl/flixbus/) | [✅](https://github.com/juliuste/meinfernbus) | ✅ | ❔
+[FlixBus](https://www.flixbus.com/) | 🇩🇪 🇪🇺 | ❌ | ✅ | [✅](http://data.ndovloket.nl/flixbus/) | [✅](https://github.com/juliuste/meinfernbus) | ✅ | ➖
 [Eurolines (DE)](https://www.eurolines.de) | 🇩🇪 🇪🇺 | ❌ | ✅ | ❔ | [✅](https://github.com/juliuste/eurolines-de) | ❔ | ❔
 [Ouibus](https://www.ouibus.com/) | 🇫🇷 🇪🇺 | [✅](https://api.idbus.com/) | ✅ | [✅](https://api.idbus.com/#gtfs-file) | [✅](https://github.com/juliuste/ouibus) | ❔ | ❔
 [MegaBus](https://uk.megabus.com/) | 🇬🇧 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔
