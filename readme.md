@@ -33,7 +33,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [DSB](https://www.dsb.dk/) | 🇩🇰 | [✅](https://help.rejseplanen.dk/hc/da/articles/214174465-Rejseplanens-API) | ➖ | [✅](https://help.rejseplanen.dk) | ❔ | ❔ | ➖
 [NS](https://www.ns.nl/) | 🇳🇱 | [✅](https://openov.nl/) | ➖ | [✅](https://openov.nl/) | ❔ | ❔ | ➖
 [SNCB](http://www.belgianrail.be/) | 🇧🇪 | [✅](https://api.irail.be/) | ❔ | ❔ | ❔ | ❔ | ❔
-[CFL](http://www.cfl.lu/) | 🇱🇺 | ❔ | ❔ | [✅](http://openov.lu/) | ❔ | ❔ | ❔
+[CFL](http://www.cfl.lu/) | 🇱🇺 | ❔ | ❔ | [✅](http://openov.lu/) | ❔ | ❔ | ➖
 [CP](https://www.cp.pt) | 🇵🇹 | ❔ | ✅ *todo* | [✅](https://gtfs.directory/comboios-de-portugal/) | [✅](https://github.com/juliuste/comboios) | ✅ | ✅
 [renfe](http://www.renfe.com/) | 🇪🇸 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [Trenitalia](http://www.trenitalia.com) | 🇮🇹 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
@@ -65,7 +65,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 
 \*Complete list of all stations available (not just search-based)
 
-\*\*API provides all data required to generate a GTFS feed
+\*\*API provides all data required to generate a GTFS feed (if there's no official feed)
 
 \*\*\*Not an operator, still interesting though
 
