@@ -58,7 +58,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [TCDD](http://www.tcdd.gov.tr/) | 🇹🇷 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [МЖ](http://www.mzi.mk/) | 🇲🇰 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [Trainkos](http://www.trainkos.com/) | 🇽🇰 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
-[ŽPCG](http://www.zcg-prevoz.me/) | 🇲🇪 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
+[ŽPCG](http://www.zcg-prevoz.me/) | 🇲🇪 | ❔ | ❔ | ❔ | [✅](https://github.com/juliuste/zpcg) | ✅ | ❌
 [ŽFBH](http://www.zfbh.ba/) | 🇧🇦 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [ADY](https://ady.az/) | 🇦🇿 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [KTZ](http://www.railways.kz/) | 🇰🇿 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
