@@ -54,7 +54,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [RZD](http://pass.rzd.ru/main-pass/public/en) | 🇷🇺 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [CFM](http://www.railway.md/) | 🇲🇩 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [BDZ](http://www.bdz.bg) | 🇧🇬 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
-[TrainOSE](http://www.trainose.gr/) | 🇬🇷 | ❔ | ✅ | [✅](http://www.trainose.gr/en/gtfs/) | [✅](https://github.com/juliuste/train-ose) | ❔ | ❌
+[TrainOSE](http://www.trainose.gr/) | 🇬🇷 | ❔ | ✅ | [✅](http://www.trainose.gr/en/gtfs/) | [✅](https://github.com/juliuste/train-ose) | ✅ | ❌
 [TCDD](http://www.tcdd.gov.tr/) | 🇹🇷 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [МЖ](http://www.mzi.mk/) | 🇲🇰 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [Trainkos](http://www.trainkos.com/) | 🇽🇰 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
