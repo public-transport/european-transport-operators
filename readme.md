@@ -82,7 +82,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [Ouibus](https://www.ouibus.com/) | 🇫🇷 🇪🇺 | [✅](https://api.idbus.com/) | ✅ | [✅](https://api.idbus.com/#gtfs-file) | [✅](https://github.com/juliuste/ouibus) | ❔ | ❔
 [MegaBus](https://uk.megabus.com/) | 🇬🇧 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔
 [Deinbus](https://www.deinbus.de/) | 🇩🇪 🇪🇺 | ❌ | ✅ | ❔ | [✅](https://github.com/juliuste/deinbus) | ❔ | ❔
-[Ecolines](https://ecolines.net) | East 🇪🇺 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔
+[Ecolines](https://ecolines.net) | East 🇪🇺 | ❌ | ❔ | ❔ | [✅](https://github.com/juliuste/ecolines) | ❔ | ❔
 [LuxExpress](https://luxexpress.eu) | East 🇪🇺 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔
 [Nettbuss](https://www.nettbuss.se/) | 🇸🇪 🇳🇴 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔
 [RegioJet](https://www.regiojet.com/) | 🇨🇿 🇸🇰 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔
