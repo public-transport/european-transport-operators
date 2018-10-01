@@ -37,7 +37,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [CP](https://www.cp.pt) | 🇵🇹 | ❔ | ✅ | [✅](https://gtfs.directory/comboios-de-portugal/) | [✅](https://github.com/juliuste/comboios) | ✅ | ✅
 [renfe](http://www.renfe.com/) | 🇪🇸 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [Trenitalia](http://www.trenitalia.com) | 🇮🇹 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
-[PKP](http://pkp.pl/) | 🇵🇱 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
+[PKP](http://pkp.pl/) | 🇵🇱 | ❔ | ✅ | ❔ | [✅](https://github.com/juliuste/bilkom) | ❔ | ❔
 [HŽPP](http://www.hzpp.hr/) | 🇭🇷 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [CFR](https://www.cfrcalatori.ro/) | 🇷🇴 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [SŽ](http://www.slo-zeleznice.si) | 🇸🇮 | ❔ | ✅ | ❔ | [✅](https://github.com/juliuste/slovenske-zeleznice) | ✅ | ❌
