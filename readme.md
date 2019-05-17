@@ -13,7 +13,7 @@ In some countries, [GTFS](https://developers.google.com/transit/gtfs/) feeds cov
 
 | 🏳️ | 🇪🇺 | 🇦🇱 | 🇦🇩 | 🇦🇲 | 🇦🇹 | 🇦🇿 | 🇧🇾 | 🇧🇪 | 🇧🇦 | 🇧🇬 | 🇭🇷 | 🇨🇾 | 🇨🇿 | 🇩🇰 | 🇪🇪 | 🇲🇰 | 🇫🇮 | 🇫🇷 | 🇬🇪 | 🇩🇪 | 🇬🇷 | 🇭🇺 | 🇮🇸 | 🇮🇪 | 🇮🇹 | 🇰🇿 | 🇽🇰 | 🇱🇻 | 🇱🇮 | 🇱🇹 | 🇱🇺 | 🇲🇹 | 🇲🇩 | 🇲🇨 | 🇲🇪 | 🇳🇱 | 🇳🇴 | 🇵🇱 | 🇵🇹 | 🇷🇴 | 🇷🇺 | 🇸🇲 | 🇷🇸 | 🇸🇰 | 🇸🇮 | 🇪🇸 | 🇸🇪 | 🇨🇭 | 🇹🇷 | 🇺🇦 | 🇬🇧 | 🇻🇦 |
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| [GTFS](https://developers.google.com/transit/gtfs/) | ❌ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | [✅](https://help.rejseplanen.dk) | ❔ | ❔ | [✅](http://dev.hsl.fi/gtfs.matka/) | [✅](https://navitia.opendatasoft.com/explore/?sort=modified&q=&refine.geographicarea=France) | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | [✅](http://openov.lu/) | ❔ | ❔ | ❔ | ❔ | [✅](https://openov.nl/) | [✅](https://data.norge.no/data/norsk-reiseinformasjon/nasjonale-rutedata-norge) | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | [✅](http://www.trafiklab.se/api) | [✅](http://gtfs.geops.ch/) | ❔ | ❔ | ❔ | ❔ |
+| [GTFS](https://developers.google.com/transit/gtfs/) | ❌ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | [✅](https://help.rejseplanen.dk) | ❔ | ❔ | [✅](http://dev.hsl.fi/gtfs.matka/) | [✅](https://navitia.opendatasoft.com/explore/?sort=modified&q=&refine.geographicarea=France) | ❔ | ❌ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | [✅](http://openov.lu/) | ❔ | ❔ | ❔ | ❔ | [✅](https://openov.nl/) | [✅](https://data.norge.no/data/norsk-reiseinformasjon/nasjonale-rutedata-norge) | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ | [✅](http://www.trafiklab.se/api) | [✅](http://gtfs.geops.ch/) | ❔ | ❔ | [✅](https://planar.network/projects/feeds) | ❔ |
 
 ## Train
 
@@ -62,6 +62,8 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [ŽFBH](http://www.zfbh.ba/) | 🇧🇦 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [ADY](https://ady.az/) | 🇦🇿 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [KTZ](http://www.railways.kz/) | 🇰🇿 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
+[RDG](http://www.raildeliverygroup.com/) | 🇬🇧 | ❔ | ❔ | [✅](https://planar.network/projects/feeds) | ❔ | ❔ | ❔
+[Eurostar](http://www.eurostar.com/) | 🇬🇧 🇫🇷 | ❔ | ❔ | [✅](https://planar.network/projects/feeds) | ❔ | ❔ | ❔
 
 \*Complete list of all stations available (not just search-based)
 
@@ -71,7 +73,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 
 🔍 Results only for a specific search query
 
-Missing countries: 🇦🇱 🇦🇲 🇸🇲 🇬🇧 🇻🇦
+Missing countries: 🇦🇱 🇦🇲 🇸🇲 🇻🇦
 
 ## Coach
 
@@ -80,7 +82,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [FlixBus](https://www.flixbus.com/) | 🇩🇪 🇪🇺 | ❌ | ✅ | [✅](http://data.ndovloket.nl/flixbus/) | [✅](https://github.com/juliuste/meinfernbus) | ✅ | ➖
 [Eurolines (DE)](https://www.eurolines.de) | 🇩🇪 🇪🇺 | ❌ | ✅ | ❔ | [✅](https://github.com/juliuste/eurolines-de) | ❔ | ❔
 [Ouibus](https://www.ouibus.com/) | 🇫🇷 🇪🇺 | [✅](https://api.idbus.com/) | ✅ | [✅](https://api.idbus.com/#gtfs-file) | [✅](https://github.com/juliuste/ouibus) | ❔ | ❔
-[MegaBus](https://uk.megabus.com/) | 🇬🇧 🇪🇺 | ❔ | ❔ | ❔ | ❌ | ❔ | ❔
+[MegaBus](https://uk.megabus.com/)\*\*\* | 🇬🇧 🇪🇺 | ❔ | ❔ | [✅](https://planar.network/projects/feeds) | ❔ | ❔ | ❔
 [Deinbus](https://www.deinbus.de/) | 🇩🇪 🇪🇺 | ❌ | ✅ | ❔ | [✅](https://github.com/juliuste/deinbus) | ❔ | ❔
 [Ecolines](https://ecolines.net) | East 🇪🇺 | ❌ | ❔ | ❔ | [✅](https://github.com/juliuste/ecolines) | ❔ | ❔
 [LuxExpress](https://luxexpress.eu) | East 🇪🇺 | ❌ | ❔ | ❔ | ❌ | ❔ | ❔
@@ -90,6 +92,8 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 \*Complete list of all stations available (not just search-based)
 
 \*\*API provides all data required to generate a GTFS feed
+
+\*\*\*Part of the national coach service feed (NCSD)
 
 ## Ferry
 
