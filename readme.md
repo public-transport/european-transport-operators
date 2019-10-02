@@ -38,7 +38,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [renfe](http://www.renfe.com/) | 🇪🇸 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [Trenitalia](http://www.trenitalia.com) | 🇮🇹 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [PKP](http://pkp.pl/) | 🇵🇱 | ❔ | ✅ | ❔ | [✅](https://github.com/juliuste/bilkom) | ❔ | ❔
-[HŽPP](http://www.hzpp.hr/) | 🇭🇷 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
+[HŽPP](http://www.hzpp.hr/) | 🇭🇷 | ❔ | ❔ | [✅](https://data.gov.hr/dataset/vozni-red-h-putni-kog-prijevoza-u-gtfs-obliku) | ❔ | ❔ | ❔
 [CFR](https://www.cfrcalatori.ro/) | 🇷🇴 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
 [SŽ](http://www.slo-zeleznice.si) | 🇸🇮 | ❔ | ✅ | ❔ | [✅](https://github.com/juliuste/slovenske-zeleznice) | ✅ | ❌
 [LDz](https://www.ldz.lv/) | 🇱🇻 | ❔ | ❔ | ❔ | ❔ | ❔ | ❔
