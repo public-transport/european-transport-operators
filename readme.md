@@ -25,7 +25,7 @@ Operator | 🏳️ | API | Inofficial API | [GTFS](https://developers.google.com
 [DB](https://www.bahn.de) | 🇩🇪 | [✅](http://data.deutschebahn.com/dataset?groups=apis) | ✅ | ❌ | [✅](https://github.com/derhuerst/db-hafas/) | [✅](http://data.deutschebahn.com/dataset/data-stationsdaten) | ✅
 [SNCF](http://www.sncf.fr) | 🇫🇷 | [✅](https://www.digital.sncf.com/startup/api) | ✅ | [✅](https://navitia.opendatasoft.com/explore/?sort=modified&q=&refine.geographicarea=France) | [✅](https://github.com/juliuste/sncf) | ❔ | ➖
 [CD](https://www.cd.cz/) | 🇨🇿 | ❔ | ✅ | ❔ | ❔ | ❔ | ❔
-[ÖBB](http://www.oebb.at) | 🇦🇹 | ❌ | ✅ | ❌ | [✅](https://github.com/juliuste/oebb) | ❔ | ❔
+[ÖBB](http://www.oebb.at) | 🇦🇹 | ❌ | ✅ | [✅](https://data.oebb.at/oebb?dataset=uddi:cd36722f-1b9a-11e8-8087-b71b4f81793a) | [✅](https://github.com/juliuste/oebb) | ❔ | ❔
 [SBB](https://www.sbb.ch) | 🇨🇭 | [✅](https://data.sbb.ch/api/v1/documentation) | ➖ | [✅](http://gtfs.geops.ch/) | ❔ | ❔ | ➖
 [SJ](https://www.sj.se/) | 🇸🇪 | [✅](http://www.trafiklab.se/api) | ➖ | [✅](http://www.trafiklab.se/api) | ❔ | ❔ | ➖
 [NSB](https://www.nsb.no/) | 🇳🇴 | [✅](https://data.norge.no/data/norsk-reiseinformasjon/nasjonale-rutedata-norge) | ➖ | [✅](https://data.norge.no/data/norsk-reiseinformasjon/nasjonale-rutedata-norge) | ❔ | ❔ | ➖
