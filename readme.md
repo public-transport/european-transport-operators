@@ -1,5 +1,8 @@
 # European transport operators
 
+## THIS DOCUMENT IS UNMAINTAINED AND NOT UP TO DATE ANYMORE. CHECK THE [LIST OF EUROPEAN TRANSPORT FEEDS](https://eu.data.public-transport.earth) INSTEAD.
+
+
 This is a list of european long-distance transport operators, available API endpoints, GTFS feeds and client modules. The long-term goal would be to have [GTFS](https://developers.google.com/transit/gtfs/) / [FPTF](https://github.com/public-transport/friendly-public-transport-format) for every single operator which would allow us to compose a giant european long-distance transport feed. That would be pretty cool, huh? Let's get to work then… 🔨
 
 - [Country feeds](#country-feeds)
